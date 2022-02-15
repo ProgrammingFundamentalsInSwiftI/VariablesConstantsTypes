@@ -7,7 +7,7 @@
  As an example, I will declare a variable called test and assign it a value of 15
  
  
-		var x = 15
+		 var x = 15
  
  
  Swift has type inference, so Swift already knwos that the type of variable x is an Int

@@ -137,7 +137,7 @@ import Foundation
 // ----------------------------------------------
 // PROBLEM 6.0 : DECIMAL CREATION
 // Declare two variables, one called firstDecimal and one called secondDecimal. Both should have decimal values. Look at both of their types by holding Option and clicking on the variable name.
-// Write your code between ----------------------
+//  Write your code between ----------------------
 
 
 
