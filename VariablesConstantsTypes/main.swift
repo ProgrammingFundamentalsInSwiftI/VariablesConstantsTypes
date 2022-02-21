@@ -24,24 +24,22 @@ import Foundation
 
 // PROBLEM 2.0 : FITNESS APP CREATION
 // For the questions below, imagine that you are developing a fitness app.
-// Write your code between ----------------------
-
-
-
-
-// ----------------------------------------------
-
-
-
 // Your fitness tracking app needs to know goal number of steps per day. Create a constant goalSteps and set it to 10000
 // Write your code between ----------------------
 
+
+
+
+
+
+
+
 // ----------------------------------------------
 
 
 
 
-// PROBLEM 2.0 : FITNESS APP OUTPUT
+// PROBLEM 2.1 : FITNESS APP OUTPUT
 //Use two print functions to print two separate lines to the console. The first line should say "Your step goal for the day is:", and the second line should print the value of goalSteps by referencing your constant.
 // Write your code between ----------------------
 
@@ -192,23 +190,6 @@ import Foundation
 // PROBLEM 7.0 : STEP CONSTANTS
 // You have declared a number of constants and variables to keep track of fitness information. Declare one more variable with a boolean value called hasMetStepGoal.
 // Write your code between ----------------------
-
-
-
-
-
-
-
-
-
-
-// ----------------------------------------------
-// PROBLEM 7.1 : STEP REDECLARE
-// When you declared a constant for goal number of steps and a variable for current step count, you likely assigned each a value in the thousands. This can be difficult to read. Redeclare this constant and variable and, when assigning each a value in the thousands, format the number so that it is more readable.
-// Write your code between ----------------------
-
-
-
 
 
 
